@@ -1,0 +1,50 @@
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.frmITV.resources
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\obj\Debug\InspeccionVehicularApp.csproj.GenerateResource.cache
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\obj\Debug\InspeccionVehicularApp.csproj.CoreCompileInputs.cache
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\Facu\Tecnicatura Programacion\2021\LCI\Practico\Proyecto integrador\C#\WindowsFormsApp1\obj\Debug\InspeccionVehicularApp.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\obj\Debug\InspeccionVehicularApp.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\obj\Debug\WindowsFormsApp1.frmITV.resources
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\obj\Debug\InspeccionVehicularApp.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\obj\Debug\InspeccionVehicularApp.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Usuario\Documents\Gasty\Facu\Tecnicatura\Labo\TP\ITVApp\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\obj\Debug\InspeccionVehicularApp.csprojAssemblyReference.cache
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\obj\Debug\InspeccionVehicularApp.csproj.GenerateResource.cache
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\obj\Debug\InspeccionVehicularApp.csproj.CoreCompileInputs.cache
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\vela_\Desktop\ITVAppTerminado\ITVApp\obj\Debug\WindowsFormsApp1.FrmSistAcadem.resources
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\bin\Debug\WindowsFormsApp1.exe
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\obj\Debug\InspeccionVehicularApp.csprojAssemblyReference.cache
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\obj\Debug\WindowsFormsApp1.FrmSistAcadem.resources
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\obj\Debug\InspeccionVehicularApp.csproj.GenerateResource.cache
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\obj\Debug\InspeccionVehicularApp.csproj.CoreCompileInputs.cache
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\obj\Debug\WindowsFormsApp1.exe
+C:\Users\vela_\Desktop\ITVAppTerminado\SistAcademApp\obj\Debug\WindowsFormsApp1.pdb
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\bin\Debug\WindowsFormsApp1.exe.config
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\bin\Debug\WindowsFormsApp1.exe
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\bin\Debug\WindowsFormsApp1.pdb
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\obj\Debug\InspeccionVehicularApp.csproj.AssemblyReference.cache
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\obj\Debug\WindowsFormsApp1.FrmSistAcadem.resources
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\obj\Debug\InspeccionVehicularApp.csproj.GenerateResource.cache
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\obj\Debug\InspeccionVehicularApp.csproj.CoreCompileInputs.cache
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\obj\Debug\WindowsFormsApp1.exe
+D:\TUP 2 cuatri\Lab2\entregas\SistAcademApp\SistAcademApp\obj\Debug\WindowsFormsApp1.pdb
