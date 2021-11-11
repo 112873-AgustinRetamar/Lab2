@@ -1,0 +1,10 @@
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\bin\Debug\Aplicacion.exe.config
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\bin\Debug\Aplicacion.exe
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\bin\Debug\Aplicacion.pdb
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\obj\Debug\Aplicacion.csproj.AssemblyReference.cache
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\obj\Debug\Aplicacion.Properties.Resources.resources
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\obj\Debug\Aplicacion.csproj.GenerateResource.cache
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\obj\Debug\Aplicacion.csproj.CoreCompileInputs.cache
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\obj\Debug\Aplicacion.exe
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\obj\Debug\Aplicacion.pdb
+F:\Facu\Tecnicatura Programacion\2021\LCII\Trabajo Practico\C#\Aplicacion\obj\Debug\Aplicacion.frmPrincipal.resources
